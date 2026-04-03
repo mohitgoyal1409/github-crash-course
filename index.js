@@ -19,3 +19,8 @@ function newfeatureadd() {
     console.log("this is a new feat");
     console.log("this is a new feat a");
 }
+
+function newfeatureaddb() {
+    console.log("this is a new feat");
+    console.log("this is a new feat b");
+}
