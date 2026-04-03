@@ -24,3 +24,8 @@ function newfeatureaddb() {
     console.log("this is a new feat");
     console.log("this is a new feat b");
 }
+
+function newfeatureaddb() {
+    console.log("this is a new feat");
+    console.log("this is a new feat c");
+}
